@@ -17,7 +17,7 @@ The **QR Pet ID Tag Store** is a web-based system that enables:
 - **Performance Optimized** – Fast load times and efficient QR code scanning.
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, JavaScript
+- **Frontend:** HTML,CSS, JavaScript, React Js.
 - **Backend:** C# (ASP.NET Core)
 - **Database:** MySQL
 - **Payment Gateway:** Stripe, PayPal
