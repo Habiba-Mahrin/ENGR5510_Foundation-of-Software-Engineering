@@ -24,28 +24,7 @@ The **QR Pet ID Tag Store** is a web-based system that enables:
 
 ## 📄 Documentation
 For more details, [📄 View the Documentation](https://github.com/Habiba-Mahrin/ENGR5510_Foundation-of-Software-Engineering/blob/main/SoftwareEngineeringPPT1-1.pdf)
-## 💻 Setup & Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-repo
-   ```
-3. Install dependencies:
-   ```sh
-   dotnet restore
-   ```
-4. Run the project:
-   ```sh
-   dotnet run
-   ```
 
-## 📬 Contact
-For any inquiries, feel free to reach out!
-
----
 Made with ❤️ for **ENGR5510 - Foundation of Software Engineering**
 
 
